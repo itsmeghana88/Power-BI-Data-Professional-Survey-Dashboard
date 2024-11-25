@@ -29,5 +29,8 @@ This project was an exciting opportunity to sharpen my skills in:
 ✔ Data Storytelling: Communicating complex data insights clearly and effectively.
 ✔ Actionable Insights: Drawing strategic conclusions from survey data to inform decision-making.
 
+### 🛠️ Tools and Techniques Used:
+Power BI Desktop, Excel, Power Query, Data Analysis Expressions (DAX), Data Modelling, SQL
+
 ### 📑 Data Source:
 The insights presented in this dashboard are based on a survey dataset collected from data professionals worldwide in June 2022. The dataset includes responses to questions about demographics, career satisfaction, salary expectations, job preferences, and technical skills. This dataset provides a snapshot of the data profession during that time, and it served as the perfect foundation for creating interactive and informative Power BI visualizations.
